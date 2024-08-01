@@ -14,6 +14,7 @@ public class Hello {
         System.out.println(100+3+"hello");
         System.out.println("-------------");
         System.out.println("hello"+100+3);
+        System.out.println("hello"+100+3);
     }
 }
 
